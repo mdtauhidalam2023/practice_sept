@@ -1,4 +1,4 @@
-print('test1')
+print('test')
 a = 200
 b = 300
 print(a+b)
