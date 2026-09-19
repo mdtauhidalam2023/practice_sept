@@ -1,3 +1,4 @@
 print('test')
-a = 10
-print(a)
+a = 200
+b = 300
+print(a+b)
